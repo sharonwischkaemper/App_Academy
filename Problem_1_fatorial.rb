@@ -28,3 +28,5 @@ puts(
 puts(
     'factorial(4) == 24: ' + (factorial(4) == 24).to_s
 )
+
+# Great link for understanding how inject works: http://blog.jayfields.com/2008/03/ruby-inject.html
